@@ -36,7 +36,7 @@ I believe engineering is a continuous learning process. Here is what I am planni
 ---
 
 ### 📈 GitHub Stats
-![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=enes-sahin-eng&show_icons=true&theme=radical)
+![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=enes-sahin-eng&show_icons=true&theme=radical&cache_seconds=1800)
 
 ---
 *"Good code is its own best documentation."*
