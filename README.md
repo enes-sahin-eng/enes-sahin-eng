@@ -1,5 +1,10 @@
 # Hi there, I'm Enes! 👋
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/SENIN_LINKEDIN_ADIN" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:SENIN_MAIL_ADRESIN@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
 ### 💻 Software Engineering Student | Problem Solver
 
 I am a Software Engineering student focused on **mastering the core logic of programming** rather than just memorizing syntax. I enjoy breaking down complex problems and building intuitive, responsive web applications. 
@@ -11,9 +16,15 @@ My current focus is on crafting seamless front-end experiences, but I am activel
 ### 🛠️ Current Tech Stack
 These are the technologies I currently use to build dynamic and responsive web applications:
 
-* **Languages:** JavaScript (ES6+), HTML5, CSS3, C++
-* **Libraries & Frameworks:** React.js, Bootstrap 5
-* **Tools:** GitHub, VS Code
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
